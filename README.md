@@ -87,6 +87,12 @@ Eliminar un producto:
 npm run dev -- deleteProduct "61a7c7a2b4b6c7d8e9f10111"
 ```
 
+## Para compilar a JavaScript
+
+```bash 
+npm run build
+```
+
 ## Estructura del Proyecto
 
 mongo-crud-typescript/
